@@ -2,6 +2,10 @@
 
 A responsive personal portfolio website built with React and Tailwind CSS. The website showcases my background, education, technical skills, and software development projects.
 
+## Live Demo
+
+[View Live Website](https://react-portfolio-xkfu.vercel.app/)
+
 ## Features
 
 - **Bilingual Support:** Switch between English and Turkish.
@@ -26,6 +30,7 @@ A responsive personal portfolio website built with React and Tailwind CSS. The w
 
 ## Project Structure
 
+```text
 react-portfolio/
 ├── public/
 │   ├── favicon.svg
@@ -57,6 +62,7 @@ react-portfolio/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+```
 
 ## Getting Started
 
@@ -70,7 +76,7 @@ react-portfolio/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/doaslan/react-portfolio.git
 cd react-portfolio
 npm install
 ```
